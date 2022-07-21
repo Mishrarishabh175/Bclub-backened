@@ -3,7 +3,8 @@
 # Bclub-backened
 
 ## Running
-- Open terminal in Bclub-backened folder and run commands:
-- npm install
-- node index.js
-
+Open terminal in Bclub-backened folder and run commands:
+```bash
+$ npm install
+$ node index.js
+```
